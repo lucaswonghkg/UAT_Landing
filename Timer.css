@@ -1,0 +1,12 @@
+.col-centered{
+	float: none;
+	margin: 0 auto;
+}
+
+.darkmode--activated p {
+	color: #cecece;
+}
+
+.darkmode--activated h1 {
+	color: #fff;
+}
